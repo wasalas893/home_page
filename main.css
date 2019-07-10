@@ -1,0 +1,127 @@
+
+.clearfix {
+  overflow: auto;
+}
+a{
+	list-style: none;
+
+}
+*{ margin: 0px; padding: 0px; }
+
+
+.cover{
+	width: 1020px;
+	margin: 0 auto;
+	background:#900C3F;
+}
+header{
+     
+      width: 1000px;
+      height: 500px;
+      background: url(img/3.jpg); 
+      border: 10px solid #900C3F;
+
+}
+header h2{
+	float: right;
+	margin-top: 450px;
+    font-family: chiller;
+  
+	margin-right: 50px;
+	
+    
+
+	color: white;
+}
+
+.secoundpage{
+	width: 1010px;
+
+}
+.secoundpage ul{
+
+	list-style: none;
+
+}
+.secoundpage ul li{
+	display: inline-block;
+	margin-right:10px;
+	margin-left: 120px;
+	padding: 10px;
+
+
+}
+.secoundpage ul li a{
+	color: white;
+	border-right:1px solid white;
+	border-left: 1px solid white;
+
+}
+.next{
+	  width: 1000px;
+
+      height: 700px;
+      background: url(img/2.jpg); 
+      border: 10px solid #900C3F;
+      background-repeat: no-repeat;
+      background-size: cover;
+
+
+}
+.page1 h2{
+	padding: 10px;
+	text-align: center;
+	 font-family: chiller;
+	 color: white;
+	 margin: 10px;
+}
+.page21 h2{
+	padding: 10px;
+	
+	color: #ffa366;
+	
+	font-family: chiller;
+
+}
+.page21 h2 strong{
+	margin-left: 100px;
+}
+.page22 h2{
+	font-family:chiller;
+	margin-left:750px;
+	margin-top: -45px;
+	color:  #ffa366;
+
+}
+
+.page3photo1 img{
+	margin-left: 100px;
+	width: 180px;
+	height: 180px;
+	margin-top: 10px;
+	border: 2px solid  gold;
+
+}
+
+.page3photo2 img{
+	width: 180px;
+	height: 180px;
+	margin-left: 720px;
+	margin-top: -350px;
+	border: 2px solid  gold;
+
+
+}
+.page41 p{
+	color: white;
+	font-style: italic;
+	margin-left: 40px;
+
+}
+.page42 p{
+	color: white;
+	font-style: italic;
+	margin-left:580px;
+	margin-top: -60px;
+
+}
